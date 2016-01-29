@@ -19,5 +19,12 @@
   "bugs": {
     "url": "https://github.com/conorcussell/punch-postcss-runner/issues"
   },
-  "homepage": "https://github.com/conorcussell/punch-postcss-runner#readme"
+  "homepage": "https://github.com/conorcussell/punch-postcss-runner#readme",
+  "dependencies": {
+    "path": "^0.12.7",
+    "postcss": "^5.0.14"
+  },
+  "devDependencies": {
+    "mocha": "^2.4.5"
+  }
 }
