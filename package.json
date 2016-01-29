@@ -1,0 +1,23 @@
+{
+  "name": "punch-postcss-runner",
+  "version": "0.0.1",
+  "description": "Use PostCSS plugins with Punch",
+  "main": "lib/postcss.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/conorcussell/punch-postcss-runner.git"
+  },
+  "keywords": [
+    "PostCSS",
+    "Punch"
+  ],
+  "author": "Conor Cussell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/conorcussell/punch-postcss-runner/issues"
+  },
+  "homepage": "https://github.com/conorcussell/punch-postcss-runner#readme"
+}
